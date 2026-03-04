@@ -1,0 +1,68 @@
+# Contributing to This Book
+
+Thank you for your interest in contributing.
+
+This book is an open-source project. Anyone may suggest improvements, corrections, or additions. All contributions are reviewed by the maintainer before being merged.
+
+---
+
+## How to Contribute
+
+### 1. Fork the Repository
+
+Click the **Fork** button on GitHub and create your own copy of the project.
+
+### 2. Make Your Changes
+
+- Edit or add Markdown (`.md`) files.
+- Keep formatting consistent with existing chapters.
+- Use proper Markdown headings (`#`, `##`, `###`) for structure.
+- Do not manually style text beyond Markdown conventions.
+
+If adding a new chapter:
+- Place it in the `/chapters` directory.
+- Follow the existing file naming format:
+  
+### 3. Submit a Pull Request
+
+Open a Pull Request against the `main` branch and include:
+
+- A short description of what you changed
+- Why you believe it improves the book
+
+---
+
+## Contribution Guidelines
+
+Please ensure your contribution:
+
+- Is original work or properly attributed
+- Is clear and well written
+- Aligns with the spirit and direction of the book
+- Avoids unnecessary repetition
+- Maintains a consistent tone
+
+Large structural changes should be discussed in an Issue before submitting a Pull Request.
+
+---
+
+## Editorial Authority
+
+The maintainer has final authority over:
+
+- What is merged
+- Structural decisions
+- Tone and direction
+- Version releases
+
+Not all contributions will be accepted. Rejections are not personal — they are editorial decisions.
+
+---
+
+## License
+
+By submitting a contribution, you agree that your contribution will be licensed under the same license as this project.
+
+---
+
+Thank you for helping improve this work.
